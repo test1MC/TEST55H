@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/Welcome.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/WhatsNew.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/MoreInformation.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/B_Feature Topics/Features.htm"
+    StartSection="false">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Feature1.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Feature2.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/B_Feature Topics/Feature3.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/C_Procedure Topics/Procedures.htm"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="none">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure1.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure2.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/C_Procedure Topics/Procedure3.htm" />
+  </TocEntry>
+</CatapultToc>
